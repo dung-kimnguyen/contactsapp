@@ -1,0 +1,68 @@
+[
+  {
+    "contactID": "5b0d0ea4221759d36b375a5c",
+    "city": "Camas",
+    "firstName": "Sharpe",
+    "lastName": "Benton",
+    "phoneNumber": "1994/03/23",
+    "state": "Georgia",
+    "streetAddress1": "Schenck Avenue",
+    "streetAddress2": "Apt 1",
+    "zipcode": "90210"
+  },
+  {
+    "contactID": "5b0d0ea406d73e3d345ff585",
+    "city": "Sehili",
+    "firstName": "Hodges",
+    "lastName": "Underwood",
+    "phoneNumber": "1986/09/11",
+    "state": "Marshall Islands",
+    "streetAddress1": "Channel Avenue",
+    "streetAddress2": "Apt 1",
+    "zipcode": "90210"
+  },
+  {
+    "contactID": "5b0d0ea450041b86dd3eaa35",
+    "city": "Linganore",
+    "firstName": "Sherri",
+    "lastName": "Noble",
+    "phoneNumber": "1978/09/28",
+    "state": "Missouri",
+    "streetAddress1": "Portal Street",
+    "streetAddress2": "Apt 1",
+    "zipcode": "90210"
+  },
+  {
+    "contactID": "5b0d0ea4d7e01ba9d3e1e3c4",
+    "city": "Gardiner",
+    "firstName": "Vonda",
+    "lastName": "Pearson",
+    "phoneNumber": "1987/08/07",
+    "state": "Wyoming",
+    "streetAddress1": "Willow Street",
+    "streetAddress2": "Apt 1",
+    "zipcode": "90210"
+  },
+  {
+    "contactID": "5b0d0ea489ecf47b4cee0772",
+    "city": "Starks",
+    "firstName": "Sloan",
+    "lastName": "Waller",
+    "phoneNumber": "1987/07/12",
+    "state": "District Of Columbia",
+    "streetAddress1": "Douglass Street",
+    "streetAddress2": "Apt 1",
+    "zipcode": "90210"
+  },
+  {
+    "contactID": "5b0d0ea41e1a507fb33b70f4",
+    "city": "Jacksonwald",
+    "firstName": "Patsy",
+    "lastName": "Nicholson",
+    "phoneNumber": "1967/08/07",
+    "state": "Maryland",
+    "streetAddress1": "Hart Street",
+    "streetAddress2": "Apt 1",
+    "zipcode": "90210"
+  }
+]
